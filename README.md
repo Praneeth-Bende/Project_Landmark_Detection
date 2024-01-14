@@ -1,2 +1,2 @@
 # Project_Landmark_Detection
-Project_Landmark_Detection
+Landmark detection using deep learning involves employing advanced neural network architectures, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs), to automatically identify and localize key points within visual data. By training these models on annotated datasets, they learn to recognize patterns and correlations associated with the precise location of landmarks. Once trained, these models can efficiently and accurately detect landmarks in new, unseen data, facilitating applications like facial recognition, medical imaging analysis, and object tracking.
